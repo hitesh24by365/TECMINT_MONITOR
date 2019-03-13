@@ -1,11 +1,3 @@
-                  ####################################################################################################
-                  #                                        Tecmint_monitor.sh                                        #
-                  # Written for Tecmint.com for the post www.tecmint.com/linux-server-health-monitoring-script/      #
-                  # If any bug, report us in the link below                                                          #
-                  # Free to use/edit/distribute the code below by                                                    #
-                  # giving proper credit to Tecmint.com and Author                                                   #
-                  #                                                                                                  #
-                  ####################################################################################################
 #! /bin/bash
 # unset any variable which system may be using
 
@@ -33,7 +25,7 @@ fi
 if [[ ! -z $vopt ]]
 then
 {
-echo -e "tecmint_monitor version 0.1\nDesigned by Tecmint.com\nReleased Under Apache 2.0 License"
+echo -e "tecmint_monitor version 0.1\nDesigned by Hitesh Patel\nReleased Under Apache 2.0 License"
 }
 fi
 
